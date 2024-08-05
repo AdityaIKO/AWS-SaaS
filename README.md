@@ -100,4 +100,4 @@ Please download the data used in this project through here:
 ### GitHub
 [My GitHub Page](https://github.com/AdityaIKO)
 
-This project analysis is one of my capstone projects in learning Data Science
+This project analysis is one of my capstone projects in learning Data Science.
